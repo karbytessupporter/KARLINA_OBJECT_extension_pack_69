@@ -10,7 +10,7 @@ file_0: KARLINA_OBJECT_extension_pack_68-main.zip // 627.41 megabytes
 
 file_1: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // 68.93 megabytes
 
-file_2: karbytes_wayback_machine_saves_precision_batches_extension_1-main_26june2026.zip // 0.15 megabytes
+file_2: karbytes_wayback_machine_saves_precision_batches_extension_1-main_26june2026.zip // 0.16 megabytes
 
 file_3: KARLINA_OBJECT_extension_pack_63-main.zip // 608.96 megabytes
 
